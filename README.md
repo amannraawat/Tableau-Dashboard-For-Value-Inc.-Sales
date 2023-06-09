@@ -1,21 +1,10 @@
-# Tableau-Dashboard-For-Value-Inc.-Sales
 
-Interactive Visualization dashboard using Tableau.
+# Tableau Dashboard For Value Inc. Sales
 
-Value Inc is a retail store that sells household items all over the world by bulk.
-Before visualization, the sales manager has no sales reporting but he has a brief idea of current sales
-He also has no idea of the monthly cost, profit and top selling products. He wants a
-dashboard on this and says the data is currently stored in an excel sheet.
-
-If you want the datasets for this project, you can tap on these links below: <br />
-Data file(transaction.csv) <br />
-https://drive.google.com/file/d/1i6MQZmXUuqyqGjSGbsPrNKV-eJPAhx-U/view?usp=sharing
-
-Data file(value_inc_seasons.csv) <br />
-https://finch-groundhog-9245.squarespace.com/s/value_inc_seasons.csv
+This is a dashboard that I have created using Tableau on the data of Value Inc. Sales. Basically I have created this to practice what all tools are present in Tableau and how can we create an interactive dashboard.
 
 
+## Dashboard
 
-
-
+![dashboard](https://github.com/amannraawat/Tableau-Dashboard-For-Value-Inc.-Sales/assets/111896299/b1448fbc-adbe-4cd2-8343-501b633b1673)
 
