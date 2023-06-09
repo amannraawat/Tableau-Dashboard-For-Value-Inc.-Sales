@@ -7,7 +7,7 @@ Before visualization, the sales manager has no sales reporting but he has a brie
 He also has no idea of the monthly cost, profit and top selling products. He wants a
 dashboard on this and says the data is currently stored in an excel sheet.
 
-If you want the datasets for this project: <br />
+If you want the datasets for this project, you can tap on these links below: <br />
 Data file(transaction.csv) <br />
 https://drive.google.com/file/d/1i6MQZmXUuqyqGjSGbsPrNKV-eJPAhx-U/view?usp=sharing
 
